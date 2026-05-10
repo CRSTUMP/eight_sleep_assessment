@@ -4,7 +4,6 @@ Two-part AI system: (1) ticket clustering + anomaly detection, (2) RAG chatbot f
 
 ## Output
 My long form notes are stored in INSIGHTS.md
-The final write up is in final.docx
 
 
 ## Setup
