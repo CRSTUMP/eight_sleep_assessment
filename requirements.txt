@@ -1,0 +1,26 @@
+# LLM API
+groq>=0.13.0             # Llama 3.3-70b: JSON generation + streaming chat
+
+# Write-up generation
+python-docx>=1.1.0
+matplotlib>=3.8.0
+
+# Embeddings (local, no rate limits)
+sentence-transformers>=3.0.0  # all-mpnet-base-v2 for clustering + RAG retrieval
+
+# Clustering
+hdbscan>=0.8.38
+umap-learn>=0.5.6
+
+# Vector store (Part 2 RAG)
+chromadb>=0.5.0
+
+# Core
+scikit-learn>=1.4.0
+numpy>=1.26.0
+pydantic>=2.6.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+rich>=13.7.0
+tenacity>=8.2.0
+tqdm>=4.66.0

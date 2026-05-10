@@ -1,0 +1,10 @@
+.env
+.cache/
+.chroma/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+results_part1.json
+final.docx
+generate_writeup.py
